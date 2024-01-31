@@ -3,6 +3,9 @@ rencana flutter arief
 - dart
  * oop
  * flutter
+    ^ Vue
+    ^react
 - laravel
 - vlog
 -struktur data dasar
+- python
