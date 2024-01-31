@@ -3,6 +3,9 @@ rencana flutter arief
 - dart
  * oop
  * flutter
+    ^ Angular
+    ^ React
 - laravel
+    ^ blade laravel
 - vlog
--struktur data dasar
+
